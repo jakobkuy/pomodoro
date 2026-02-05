@@ -44,7 +44,3 @@ python3 pomodoro.py --stats --month
 - Session tracking saved to `~/.pomodoro_data.json`
 - Statistics for all-time, weekly, or monthly progress
 - Option to skip breaks if you're in the zone
-
-## License
-
-MIT
